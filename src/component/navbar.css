@@ -1,0 +1,26 @@
+.navbar{
+    /* height: 64px !important; */
+}
+.searchbox{
+    width: 30vw;
+}
+.search-icon{
+    display: none;
+}
+.profile-fic-nav{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid rgb(135, 134, 134);
+}
+@media(max-width:450px){
+    .searchbox{
+        display: none;
+    }
+    .navbar-brand{
+        margin-left: 5px !important;
+    }
+    .search-icon{
+        display: block;
+    }
+}

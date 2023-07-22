@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,300&display=swap');
+
+.login-container{
+    margin-top: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+.input-bg{
+    background-color: #f3f3f3;
+    color: #dbd5d5;
+    font-size: 0.9rem;
+    height: 2.9rem;
+}
+.custom-btn-white {
+    /* background-color: ; */
+    color: #000;
+}
+/* for image customise */
+.socialDesktop{
+    display: block;
+}
+.socialMobile{
+    display: none;
+}
+/* for post page */
+.post-parent{
+    width: 100%;
+}
+.post-child{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+@media(max-width:450px){
+    .socialDesktop{
+        display: none;
+    }
+    .socialMobile{
+        display: block;
+    }
+    .login-container{
+        margin-top: 2.5rem;
+        
+    }
+    .card{
+        border: none !important;
+    }
+    .card-body{
+        padding-left: 1.4rem !important;
+        padding-right: 1.4rem !important;
+    }
+    .shadow{
+        box-shadow: none !important;
+    }
+    
+}
