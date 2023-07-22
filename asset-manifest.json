@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rectrogram-fe/static/css/main.b0d7e526.css",
+    "main.js": "/rectrogram-fe/static/js/main.93ad0a61.js",
+    "static/media/flower3.jpg": "/rectrogram-fe/static/media/flower3.1f0f4c1fb57b101fb77e.jpg",
+    "static/media/post.jpg": "/rectrogram-fe/static/media/post.e93040569c3780ef0bd8.jpg",
+    "static/media/profilepic.jpg": "/rectrogram-fe/static/media/profilepic.ec9671444feba8053236.jpg",
+    "static/media/flower1.jpg": "/rectrogram-fe/static/media/flower1.217ac87d047bf92d1092.jpg",
+    "static/media/flower2.jpg": "/rectrogram-fe/static/media/flower2.faefc515d1ff82e9421c.jpg",
+    "static/media/social-desktop.PNG": "/rectrogram-fe/static/media/social-desktop.6caa32fb2aa06f6edb63.PNG",
+    "static/media/social-mobile.PNG": "/rectrogram-fe/static/media/social-mobile.9d90f395258c18b37ffe.PNG",
+    "static/media/logo.PNG": "/rectrogram-fe/static/media/logo.75eed94286e4395e82ba.PNG",
+    "index.html": "/rectrogram-fe/index.html",
+    "static/media/horizontalMoreAction.PNG": "/rectrogram-fe/static/media/horizontalMoreAction.829f12387e28b9c956c6.PNG",
+    "static/media/moreAction.PNG": "/rectrogram-fe/static/media/moreAction.2e62a30187b22824287b.PNG",
+    "main.b0d7e526.css.map": "/rectrogram-fe/static/css/main.b0d7e526.css.map",
+    "main.93ad0a61.js.map": "/rectrogram-fe/static/js/main.93ad0a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d7e526.css",
+    "static/js/main.93ad0a61.js"
+  ]
+}
