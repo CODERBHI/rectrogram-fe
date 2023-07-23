@@ -19,6 +19,7 @@ function App() {
        <Navbar/>
         <Routes>
           <Route exact path='/' element = {<Signup/>}></Route>
+          <Route exact path='/rectrogram-fe/' element = {<Signup/>}></Route>
           <Route exact path='/login' element = {<Login/>}></Route>
           <Route exact path='/signup' element = {<Signup/>}></Route>
           <Route exact path='/posts' element = {<PostOverview/>}></Route>
