@@ -4,7 +4,7 @@ import moreAction from '../Images/moreAction.PNG'
 import post from '../Images/post.jpg'
 import { useSelector} from 'react-redux'
 
-const Card = (props) => {
+const Card = () => {
   // only post's user can delete his post
   const user = useSelector(state => state.userReducer)
   // console.log(user);
@@ -20,8 +20,8 @@ const Card = (props) => {
               <img className='img-fluid  profile-fic' src="https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80" alt="winter-pic" />
 
               <div className='d-flex flex-column justify-content-center ms-3 ' >
-                  <p className='fs-6 fw-bold'>{props.postData.location}</p> {/* Location*/ }
-                  <p className='location'>{props.postData.description}</p> {/* Title */ }
+                  <p className='fs-6 fw-bold'>Title</p> 
+                  <p className='location'>Description</p> 
               </div>
 
             </div>

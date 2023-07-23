@@ -42,7 +42,12 @@ const PostOverview = () => {
               <div className="col-md-4 mb-2">
                 <Card />
               </div>
-           
+              <div className="col-md-4 mb-2">
+                <Card />
+              </div>
+              <div className="col-md-4 mb-2">
+                <Card />
+              </div>
           </div>
         </div>
     </>
