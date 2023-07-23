@@ -1,6 +1,7 @@
 {
   "name": "rectrogram",
-  "homepage": "https://coderbhi.github.io/rectrogram-fe/",
+  // "homepage": "https://coderbhi.github.io/rectrogram-fe/",
+  "homepage": "https://github.com/CODERBHI/Rectrogram.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
